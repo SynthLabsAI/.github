@@ -39,7 +39,7 @@ We're always looking for talented individuals to join our team. If you're passio
 <p align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/synth_labs?style=social)](https://twitter.com/intent/follow?screen_name=synth_labs)
-[![Discord](https://img.shields.io/discord/46uN42SE6x?up_message=Join&style=STYLE&label=LABEL&logo=discord)](https://discord.gg/46uN42SE6x)
+[![Discord](https://img.shields.io/discord/1146561125723406438?logo=discord)](https://discord.gg/46uN42SE6x)
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/synthlabsai)
 [![Website](https://img.shields.io/website?up_message=Visit&url=https%3A%2F%2Fwww.synthlabs.ai%2F)](https://www.synthlabs.ai/)
 [![GitHub followers](https://img.shields.io/github/followers/SynthLabsAI?label=Follow%20on%20GitHub&style=social)](https://github.com/SynthLabsAI)
@@ -47,4 +47,4 @@ We're always looking for talented individuals to join our team. If you're passio
 
 </p>
 
-Join us in shaping a aligned and impactful AI future! 🤝
+Join us in shaping an aligned and impactful AI future! 🤝
