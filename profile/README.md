@@ -1,6 +1,26 @@
-# Welcome to SynthLabs 👋
+<h1 align="center">SynthLabs</h1> 
+<h2 align="center" style="font-size: 20px; margin-bottom: 4px">Shaping an aligned and impactful AI future</h2> 
 
-Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/)
+<p align="center"> 
+  <a href="https://www.synthlabs.ai/"> 
+    <img alt="Website" src="https://img.shields.io/badge/Site-synthlabs.ai-ed2dd0?link=https%3A%2F%2Fsynthlabs.ai"/></a>
+  <a href="https://jobs.synthlabs.ai/"> 
+    <img alt="Join the Team" src="https://img.shields.io/badge/Site-Join the Team-a9def9?link=https%3A%2F%2Fjobs.synthlabs.ai"/></a> 
+  <a href="https://discord.gg/46uN42SE6x"> 
+    <img alt="Discord" src="https://img.shields.io/discord/1146561125723406438?label=Join%20Discord" /></a> 
+  <a href="https://github.com/SynthLabsAI"> 
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SynthLabsAI?label=Follow%20on%20GitHub&style=social" /></a> 
+  <br/> 
+  <a href="https://twitter.com/synth_labs"> 
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/synth_labs?style=social" /></a> 
+  <a href="https://www.linkedin.com/company/synthlabsai"> 
+    <img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-Follow-blue" /></a> 
+  <a href="https://huggingface.co/SynthLabsAI"> 
+    <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Follow-yellow" /></a> 
+    <br/> 
+</p>
+
+Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/) 👋
 
 ## 🔬 Featured Research
 
@@ -37,14 +57,13 @@ We're always looking for talented individuals to join our team. If you're passio
 
 <!-- Social Shields for SynthLabsAI -->
 <p align="center">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/synth_labs?style=social)](https://twitter.com/intent/follow?screen_name=synth_labs)
-[![Discord](https://img.shields.io/discord/1146561125723406438?logo=discord)](https://discord.gg/46uN42SE6x)
-[![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/company/synthlabsai)
-[![Website](https://img.shields.io/website?up_message=Visit&url=https%3A%2F%2Fwww.synthlabs.ai%2F)](https://www.synthlabs.ai/)
-[![GitHub followers](https://img.shields.io/github/followers/SynthLabsAI?label=Follow%20on%20GitHub&style=social)](https://github.com/SynthLabsAI)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Follow-yellow)](https://huggingface.co/SynthLabsAI)
-
+<a href="https://www.synthlabs.ai/"><img alt="Website" src="https://img.shields.io/website?up_message=Visit&url=https%3A%2F%2Fwww.synthlabs.ai%2F"/></a> <a href="https://jobs.synthlabs.ai/"> 
+    <img alt="Join the Team" src="https://img.shields.io/badge/Site-Join the Team-a9def9?link=https%3A%2F%2Fjobs.synthlabs.ai"/></a>
+  <a href="https://discord.gg/46uN42SE6x"> <img alt="Discord" src="https://img.shields.io/discord/1146561125723406438?logo=discord&label=Join%20Discord" /> </a><a href="https://github.com/SynthLabsAI"> <img alt="GitHub followers" src="https://img.shields.io/github/followers/SynthLabsAI?label=Follow%20on%20GitHub&style=social" /></a>
+<br/>
+<a href="https://twitter.com/synth_labs"> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/synth_labs?style=social" /></a> 
+<a href="https://www.linkedin.com/company/synthlabsai"><img alt="LinkedIn Follow" src="https://img.shields.io/badge/LinkedIn-Follow-blue" /></a> 
+<a href="https://huggingface.co/SynthLabsAI"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Follow-yellow" /></a>
 </p>
 
 Join us in shaping an aligned and impactful AI future! 🤝
