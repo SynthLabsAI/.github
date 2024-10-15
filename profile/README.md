@@ -1,5 +1,5 @@
 <h1 align="center">SynthLabs</h1> 
-<h2 align="center" style="font-size: 20px; margin-bottom: 4px">Shaping an aligned and impactful AI future</h2> 
+<h2 align="center" style="font-size: 20px; margin-bottom: 4px">A post-training AI research lab advancing and scaling synthetic reasoning</h2> 
 
 <p align="center"> 
   <a href="https://www.synthlabs.ai/"> 
@@ -24,11 +24,30 @@ Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/) �
 
 ## 🔬 Featured Research
 
+<!--
+### [Generative Reward Models](https://www.synthlabs.ai/research/genrm)
+
+![GenRM Overview](https://www.synthlabs.ai/img/genrm/diagram.png)
+
+Our latest work showcases 
+
+Contributions from Dakota Mahan*, Duy Van Phung*, Rafael Rafailov*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak*. Check out the full paper on [our website](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf).
+
+
+
+
+### [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://www.synthlabs.ai/research/persona)
+
+
+
+Contributions from Louis Castricato*, Nathan Lile*, Rafael Rafailov, Jan-Philipp Fränken, and Chelsea Finn. Read the full paper on [arXiv](https://arxiv.org/abs/2407.17387).
+-->
+
 ### [Suppressing Pink Elephants with Direct Principle Feedback](https://arxiv.org/abs/2402.07896)
 
 ![Pink_Elephants](https://www.synthlabs.ai/img/cacophony.png)
 
-Our most recent work represents a significant advancement in the field of controllable language models. This [research addresses](https://arxiv.org/pdf/2402.07896.pdf) the 'Pink Elephant Problem' - instructing language models to avoid certain topics ("Pink Elephants") and focus on preferred ones ("Grey Elephants"). Key highlights:
+This work represents a significant advancement in the field of controllable language models. This [research addresses](https://arxiv.org/pdf/2402.07896.pdf) the 'Pink Elephant Problem' - instructing language models to avoid certain topics ("Pink Elephants") and focus on preferred ones ("Grey Elephants"). Key highlights:
 
 - **Controllable Generation**: Dynamically adjust language models at inference time for diverse needs across multiple contexts
 
@@ -43,11 +62,13 @@ Contributions from Louis Castricato, Nathan Lile, Suraj Anand, Hailey Schoelkopf
 - [Interviewing Louis Castricato on RLHF, Synth Labs, and the Future of Alignment](https://www.interconnects.ai/p/rlhf-interview-1-louis)
 - [New Microsoft-Backed Startup Wants to Make AI Work As Intended](https://archive.is/vczUI)
 
+<!--
 ## 🚀 Open Source Projects [WIP]
 
 WIP; join our [Discord](https://discord.gg/46uN42SE6x) for open science hackathons.
 
 - [Project 1 WIP](/#) - description
+-->
 
 ## 💼 Join Our Team
 
