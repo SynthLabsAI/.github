@@ -32,16 +32,16 @@ Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/) �
 Our latest work showcases 
 
 Contributions from Dakota Mahan*, Duy Van Phung*, Rafael Rafailov*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak*. Check out the full paper on [our website](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf).
-
+-->
 
 
 
 ### [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://www.synthlabs.ai/research/persona)
 
-
+This work introduces PERSONA, a framework for evaluating the ability of language models to align with a diverse set of user values, using 1,586 synthetic personas, 3,868 prompts, and 317,200 preference pairs. We focus on pluralistic alignment because we want langauge models that can reflect a diverse set of values, not just the majority opinion, and we don't prescribe to a one-size-fits-all approach. PERSONA is synthetically constructed from U.S. census data, allowing us to generate a large, diverse dataset while ensuring privacy and reproducibility. The dataset and evaluation framework can be used for a variety of purposes, inlcluding: (1) a test bed, (2) a development environment, (3) a reproducible evaluation for pluralistic alignment approaches, (4) the personalization of language models, (5) and for preference elicitation.
 
 Contributions from Louis Castricato*, Nathan Lile*, Rafael Rafailov, Jan-Philipp Fränken, and Chelsea Finn. Read the full paper on [arXiv](https://arxiv.org/abs/2407.17387).
--->
+
 
 ### [Suppressing Pink Elephants with Direct Principle Feedback](https://arxiv.org/abs/2402.07896)
 
