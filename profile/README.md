@@ -24,15 +24,19 @@ Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/) �
 
 ## 🔬 Featured Research
 
-<!--
+
 ### [Generative Reward Models](https://www.synthlabs.ai/research/genrm)
 
 ![GenRM Overview](https://www.synthlabs.ai/img/genrm/diagram.png)
 
-Our latest work showcases 
+Our latest work introduces Generative Reward Models (GenRM) and Chain-of-Thought GenRM (CoT-GenRM), a framework for preference learning that unifies RLHF and RLAIF approaches. We demonstrate that by combining iterative preference learning algorithms (STaR-DPO) with CoT-GenRM, we can train models that achieve comparable performance on in-domain data to Bradley-Terry Reward Models (currently best-in-class method), while vastly outperforming them on out-of-domain data (up to 45\% improvement). All while providing rationales for the model's predicted preference. The GenRM framework unifies language models and reward models under a single next-token prediction framing, reducing the infrastructure overhead required. The development of CoT-GenRM and STaR-DPO opens up new possibilities for AI alignment:
 
-Contributions from Dakota Mahan*, Duy Van Phung*, Rafael Rafailov*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak*. Check out the full paper on [our website](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf).
--->
+- **More Robust AI Systems**: Create AI systems that better generalize to new situations and maintain alignment with human values.
+- **Efficient Scaling**: Allow for more rapid iteration and refinement of AI behavior.
+- **Potential for Personalization**: Address the challenge of aligning AI with diverse and potentially conflicting human views.
+- **Improved Reasoning Capabilities**: Pave the way for AI systems that can continually improve their own reasoning and decision-making processes.
+
+Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak\*. Check out the full paper on [our website](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf).
 
 
 
