@@ -22,6 +22,8 @@
 
 Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/) 👋
 
+---
+
 ## 🔬 Featured Research
 
 
@@ -38,7 +40,7 @@ Our latest work introduces Generative Reward Models (GenRM) and Chain-of-Thought
 
 Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak\*. Check out the full paper on [our website](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf).
 
-
+---
 
 ### [PERSONA: A Reproducible Testbed for Pluralistic Alignment](https://www.synthlabs.ai/research/persona)
 
@@ -46,6 +48,7 @@ This work introduces PERSONA, a framework for evaluating the ability of language
 
 Contributions from Louis Castricato*, Nathan Lile*, Rafael Rafailov, Jan-Philipp Fränken, and Chelsea Finn. Read the full paper on [arXiv](https://arxiv.org/abs/2407.17387).
 
+---
 
 ### [Suppressing Pink Elephants with Direct Principle Feedback](https://arxiv.org/abs/2402.07896)
 
@@ -60,6 +63,8 @@ This work represents a significant advancement in the field of controllable lang
 - **Significant Performance Improvements**: After fine-tuning with DPF on our synthetic Pink Elephants dataset, our 13B fine-tuned LLaMA 2 model outperformed existing models and matched the performance of GPT-4 on our curated test set for the Pink Elephant Problem.
 
 Contributions from Louis Castricato, Nathan Lile, Suraj Anand, Hailey Schoelkopf, Siddharth Verma, and Stella Biderman. Read the full paper on [arXiv](https://arxiv.org/abs/2402.07896).
+
+---
 
 ## 📰 Featured Media/Press
 
