@@ -27,7 +27,7 @@ Welcome to the official GitHub for [SynthLabs.ai](https://www.synthlabs.ai/) �
 ## 🔬 Featured Research
 
 
-### [Generative Reward Models](https://www.synthlabs.ai/research/genrm)
+### [Generative Reward Models](https://www.synthlabs.ai/research/generative-reward-models)
 
 ![GenRM Overview](https://www.synthlabs.ai/img/genrm/diagram.png)
 
@@ -38,7 +38,7 @@ Our latest work introduces Generative Reward Models (GenRM) and Chain-of-Thought
 - **Potential for Personalization**: Address the challenge of aligning AI with diverse and potentially conflicting human views.
 - **Improved Reasoning Capabilities**: Pave the way for AI systems that can continually improve their own reasoning and decision-making processes.
 
-Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak\*. Check out the full paper on [our website](https://www.synthlabs.ai/pdf/Generative_Reward_Models.pdf).
+Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak\*. Check out the full paper on [arXiv](https://arxiv.org/abs/2410.12832).
 
 ---
 
