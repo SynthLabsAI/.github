@@ -38,7 +38,11 @@ Our latest work introduces Generative Reward Models (GenRM) and Chain-of-Thought
 - **Potential for Personalization**: Address the challenge of aligning AI with diverse and potentially conflicting human views.
 - **Improved Reasoning Capabilities**: Pave the way for AI systems that can continually improve their own reasoning and decision-making processes.
 
-Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak\*. Check out the full paper on [arXiv](https://arxiv.org/abs/2410.12832).
+Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Blagden, Nathan Lile, Louis Castricato, Jan-Philipp Fränken, Chelsea Finn, and Alon Albalak\*.
+
+**Learn more:**
+- [Blog](https://www.synthlabs.ai/research/generative-reward-models)
+- [ArXiV](https://arxiv.org/abs/2410.12832)
 
 ---
 
@@ -46,7 +50,11 @@ Contributions from Dakota Mahan\*, Duy Van Phung\*, Rafael Rafailov\*, Chase Bla
 
 This work introduces PERSONA, a framework for evaluating the ability of language models to align with a diverse set of user values, using 1,586 synthetic personas, 3,868 prompts, and 317,200 preference pairs. We focus on pluralistic alignment because we want langauge models that can reflect a diverse set of values, not just the majority opinion, and we don't prescribe to a one-size-fits-all approach. PERSONA is synthetically constructed from U.S. census data, allowing us to generate a large, diverse dataset while ensuring privacy and reproducibility. The dataset and evaluation framework can be used for a variety of purposes, inlcluding: (1) a test bed, (2) a development environment, (3) a reproducible evaluation for pluralistic alignment approaches, (4) the personalization of language models, (5) and for preference elicitation.
 
-Contributions from Louis Castricato*, Nathan Lile*, Rafael Rafailov, Jan-Philipp Fränken, and Chelsea Finn. Read the full paper on [arXiv](https://arxiv.org/abs/2407.17387).
+Contributions from Louis Castricato*, Nathan Lile*, Rafael Rafailov, Jan-Philipp Fränken, and Chelsea Finn.
+
+**Learn more:**
+- [Blog](https://www.synthlabs.ai/research/persona)
+- [ArXiv](https://arxiv.org/abs/2407.17387)
 
 ---
 
@@ -62,7 +70,10 @@ This work represents a significant advancement in the field of controllable lang
 
 - **Significant Performance Improvements**: After fine-tuning with DPF on our synthetic Pink Elephants dataset, our 13B fine-tuned LLaMA 2 model outperformed existing models and matched the performance of GPT-4 on our curated test set for the Pink Elephant Problem.
 
-Contributions from Louis Castricato, Nathan Lile, Suraj Anand, Hailey Schoelkopf, Siddharth Verma, and Stella Biderman. Read the full paper on [arXiv](https://arxiv.org/abs/2402.07896).
+Contributions from Louis Castricato, Nathan Lile, Suraj Anand, Hailey Schoelkopf, Siddharth Verma, and Stella Biderman.
+
+**Learn more:**
+- [ArXiv](https://arxiv.org/abs/2402.07896)
 
 ---
 
